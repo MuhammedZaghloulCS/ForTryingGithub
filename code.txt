@@ -30,4 +30,4 @@ public class Major {
 
 }
 
-#this second change in sec branch 
+#this second change in master branch 
